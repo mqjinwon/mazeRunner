@@ -1,4 +1,4 @@
 # mazeRunner
-Algorithm_findMazeWay
+ -- Algorithm_findMazeWay
 
-find a maze exit from start line! i use DFS algorithm
+find a maze exit from start line! I used DFS algorithm
