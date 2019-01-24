@@ -119,5 +119,7 @@ int main()
 
 	find_goal(miro, 20, 20);
 
+	cout << "it is my first using git " << endl;
+
 	return 0;
 }
